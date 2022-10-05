@@ -4,11 +4,13 @@ var body = document.querySelector('body');
 var input = document.getElementById('prompt');
 var nameLabel = document.getElementById('nameLabel');
 var dropDownDiv = document.getElementById('dropDownDiv')
+var mainDiv = document.getElementById("mainDiv")
 var name = '';
 var className;
 var classLink;
 var buttonColor, buttonBorder,textColor;
 var e;
+var docWidth = body.style.width;var docHeight = body.style.height
 var numberOfChar = 0;
 var prevText = ""
 var classes = [
@@ -65,6 +67,7 @@ for (var i = 0; i < cookiearray.length; i++) {
     textColor = array[1]
   }
 }
+mainDiv.style.width=docWidth;mainDiv.style.height=docWidth
 function newTab(link) {
   window.open(link, '_blank');
   writeConsole('Sent to ' + link);
