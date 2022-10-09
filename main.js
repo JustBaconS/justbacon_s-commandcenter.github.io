@@ -4,7 +4,7 @@ var commands = {
   "Background":{Name:"Background", Description:"Changes the background of this website", Arguments:"linear-gradient(, radial-gradient(, conic-gradient(, url(, "+colors},
   "Canvas":{Name:"Canvas", Description:"Goes to a class page(mainly for me, the owner, to get to my classes faster).", Arguments:"English, Science, Math, Band, History, Investigating Careers, Main"},
   "Cookies":{Name:"Cookies", Description:"Print all the cookies you have", Arguments:""},
-  "Resource":{Name:"Resource", Description:"Goes to a resource I use commonly", Arguments:"Skyward, Gmail, Clever, Typing"},
+  "Resource":{Name:"Resource", Description:"Goes to a resource I use commonly", Arguments:"Skyward, Gmail, Clever, Sora"},
   "Title":{Name:"Title", Description:"Rename document title", Arguments:""},
   "Text":{Name: "Text", Description:"Change all text color", Arguments:colors},
   "Write":{Name: "Write", Description:"Print something of your choice", Arguments:""},
@@ -72,7 +72,6 @@ var resources = [
   'Skyward=https://skyward.pfisd.net/StudentSTS/Session/Signin?area=Home&controller=Home&action=Index&logoutreason=TimedOut',
   'Gmail=https://mail.google.com/',
   'Clever=https://clever.com/in/pfisd/student/portal',
-  'Typing=https://login.learning.com/',
   'Sora=https://soraapp.com/library/pfisd'
 ];
 var bookmarks = [];
