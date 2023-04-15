@@ -24,7 +24,6 @@ I'm not really a school person, but my grades are decent;
 Did you know the nearest black hole is 1500 light years away from earth called Gaia BH1, you can search it up if you want; 
 Did you know this url was named after my roblox name "JustBacon_S"; 
 Did you know that this website used to be buttons linking to my classes, but I changed it because I prefer the input element instead.; 
-Did you know I am 13 years old :/; 
 The drop down menu in this website was inspired by Minecraft's command system, big thanks to them.; 
 Version 3 sneak peak, there will be drop downs for arguments. It is really hard to code for me and I want to release updates weekly; 
 I started this project on September 29th I think.;  
